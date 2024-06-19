@@ -5,7 +5,7 @@
 
 - 🏢 I'm a Automotive Embedded sw Engineer|| study at the Faculty of Engineering, Menoufia University, Mechatronics Department contacts:mahmoud.ibrahim.esw@gmail.com 
 - 👨‍💻 As a Engineering student, I'm constantly learning and exploring new technologies to improve my skills in Embedded system.
-- 💬 Ask me about my experience with C programming language, Embedded C, MCU interfacing , automotivecommunication (CAN -LIN -EtherNet-FD) Autosar MisraC or anything related to web development.
+- 💬Skills: C programming language, Embedded C, MCU interfacing , automotivecommunication (CAN -LIN -EtherNet-FD) Autosar MisraC or anything related to Embedded SW|HW Field.
 
 
 ### Connect with Me :
