@@ -10,7 +10,8 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mahmoud-ibrahim-821484228/" target="_blank"><Mahmoud Ibrahim/></a>
+<a href="https://www.linkedin.com/in/mahmoud-ibrahim-821484228/" target="_blank">Mahmoud Ibrahim</a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
