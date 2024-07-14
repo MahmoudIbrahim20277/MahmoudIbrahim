@@ -1,16 +1,44 @@
-<h3 align="center">
-  Welcome to Mahmoud Ibrahim's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-- 🏢 I'm a Automotive Embedded sw Engineer|| study at the Faculty of Engineering, Menoufia University, Mechatronics Department contacts:mahmoud.ibrahim.esw@gmail.com 
-- 👨‍💻 As a Engineering student, I'm constantly learning and exploring new technologies to improve my skills in Embedded system.
-- 💬Skills: C programming language, Embedded C, MCU interfacing , automotivecommunication (CAN -LIN -EtherNet-FD) Autosar MisraC or anything related to Embedded SW|HW Field.
+<img src="python-blogn-banner2.png">
 
 
-### Connect with Me :
+# 👋 Hello, I'm Kunal Salvi
 
-<a href="https://www.linkedin.com/in/mahmoud-ibrahim-821484228/" target="_blank">Mahmoud Ibrahim</a>
+## 🚀 About Me
+I am a passionate embedded system engineer with over 4 years of hands-on experience in designing and developing innovative solutions for the embedded world. My journey in the field has equipped me with a deep understanding of hardware-software integration, real-time systems, and low-level programming.
+
+## 🛠️ Skills
+- **Programming Languages:** C, C++, Python, HTML, CSS, Rust, Embedded C/C++, Java, System Verilog, VHDL, MATLAB
+- **Microcontrollers:** STMicroelectronics, NXP, TI, Microchip, Atmel
+- **Communication Protocols:** I2C, SPI, UART/USART, CAN, Ethernet, I2S, TCP/IP, USB, SAI, SDIO, SWD, JTAG, BacNET
+- **Peripherals:** DCMI, DMA, Clock, Timer, Real Time Clock, GPIO, Interrupts, ADC, DAC, Watchdog, FSMC, DC/D
+- **RTOS:** FreeRTOS, ChibiOS, CMSIS RTOS
+- **Embedded Software Development:** Bare-metal programming, Firmware development, Real-Time System development
+ 
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kunalsalvi63)
+
+## 📚 Education
+- **Bachelor of Engineering in Electronics** from University of Mumbai (2019)
+- **Masters of Science in Electrical Engineering** from University of Texas at Arlington (2024)
+
+## 🌱 Interests
+Embedded systems, IoT, Robotics, Low-level programming, and Continuous learning.
+
+### Languages
+---
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Python" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> 
+<img align="left" alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>
+<img align="left" alt="git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img align="left" alt="GitHub" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/>
+
+<br />
+
+<br />
+
 
 
 
