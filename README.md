@@ -2,22 +2,22 @@
 <img src="python-blogn-banner2.png">
 
 
-# 👋 Hello, I'm Kunal Salvi
+# 👋 Hello, I'm Mahmoud Ibrahim
 
 ## 🚀 About Me
-I am a passionate embedded system engineer with over 4 years of hands-on experience in designing and developing innovative solutions for the embedded world. My journey in the field has equipped me with a deep understanding of hardware-software integration, real-time systems, and low-level programming.
+I am a passionate embedded system engineer with over 3 years of hands-on studying in designing and developing innovative solutions for the embedded world. My journey in the field has equipped me with a deep understanding of hardware-software integration, real-time systems, and low-level programming.
 
 ## 🛠️ Skills
-- **Programming Languages:** C, C++, Python, HTML, CSS, Rust, Embedded C/C++, Java, System Verilog, VHDL, MATLAB
-- **Microcontrollers:** STMicroelectronics, NXP, TI, Microchip, Atmel
-- **Communication Protocols:** I2C, SPI, UART/USART, CAN, Ethernet, I2S, TCP/IP, USB, SAI, SDIO, SWD, JTAG, BacNET
-- **Peripherals:** DCMI, DMA, Clock, Timer, Real Time Clock, GPIO, Interrupts, ADC, DAC, Watchdog, FSMC, DC/D
-- **RTOS:** FreeRTOS, ChibiOS, CMSIS RTOS
+- **Programming Languages:** C, C++,  Embedded C/C++, VHDL, MATLAB
+- **Microcontrollers:** STMicroelectronics, Microchip, Atmel
+- **Communication Protocols:** I2C, SPI, UART/USART, CAN, Ethernet, I2S, USB,
+- **Peripherals:**  DMA, Clock, Timer, Real Time Clock, GPIO, Interrupts, ADC, DAC, Watchdog, 
+- **RTOS:** FreeRTOS
 - **Embedded Software Development:** Bare-metal programming, Firmware development, Real-Time System development
  
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kunalsalvi63)
+- [LinkedIn](https://www.linkedin.com/in/m-i-a-/)
 
 ## 📚 Education
 - **Bachelor of Engineering in Electronics** from University of Mumbai (2019)
