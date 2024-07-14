@@ -20,8 +20,7 @@ I am a passionate embedded system engineer with over 3 years of hands-on studyin
 - [LinkedIn](https://www.linkedin.com/in/m-i-a-/)
 
 ## 📚 Education
-- **Bachelor of Engineering in Electronics** from University of Mumbai (2019)
-- **Masters of Science in Electrical Engineering** from University of Texas at Arlington (2024)
+- **Bachelor of Engineering in Electronics** from University of Menoufia (2020-2025)
 
 ## 🌱 Interests
 Embedded systems, IoT, Robotics, Low-level programming, and Continuous learning.
